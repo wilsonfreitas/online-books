@@ -2,7 +2,7 @@
 
 ## Statistics
 
-- [https://otexts.org/fpp2/](Forecasting: Principles and Practice), Rob J Hyndman and George Athanasopoulos
+[https://otexts.org/fpp2/](Forecasting: Principles and Practice), Rob J Hyndman and George Athanasopoulos
 
 http://r4ds.had.co.nz/
 R for Data Science
@@ -79,3 +79,4 @@ http://www.feat.engineering/
 
 http://neuralnetworksanddeeplearning.com/
 
+https://christophm.github.io/interpretable-ml-book/

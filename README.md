@@ -74,3 +74,8 @@ https://bookdown.org/yihui/rmarkdown/
 https://principles.tidyverse.org/
 
 https://advanced-r-solutions.rbind.io/
+
+http://www.feat.engineering/
+
+http://neuralnetworksanddeeplearning.com/
+

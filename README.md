@@ -81,3 +81,5 @@ http://www.feat.engineering/
 http://neuralnetworksanddeeplearning.com/
 
 https://christophm.github.io/interpretable-ml-book/
+
+https://therinspark.com/

@@ -74,3 +74,9 @@ https://bookdown.org/yihui/rmarkdown/
 https://principles.tidyverse.org/
 
 https://advanced-r-solutions.rbind.io/
+
+https://christophm.github.io/interpretable-ml-book/
+
+https://rc2e.com
+
+http://cs231n.github.io/

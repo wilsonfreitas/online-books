@@ -42,7 +42,7 @@ http://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/index.html
 
 https://lectures.quantecon.org/py/index.html
 
-https://www.kevinsheppard.com/images/0/09/Python_introduction.pdf
+https://www.kevinsheppard.com/teaching/python/notes/
 
 http://moderndive.netlify.com/6-regression.html
 

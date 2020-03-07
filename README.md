@@ -87,3 +87,7 @@ http://neuralnetworksanddeeplearning.com/
 https://christophm.github.io/interpretable-ml-book/
 
 https://therinspark.com/
+
+https://bookdown.org/ccolonescu/RPoE4/
+
+

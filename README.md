@@ -92,4 +92,6 @@ https://bookdown.org/ccolonescu/RPoE4/
 
 https://smac-group.github.io/ts/
 
+https://www.ssc.wisc.edu/~bhansen/econometrics/Econometrics.pdf
+
 

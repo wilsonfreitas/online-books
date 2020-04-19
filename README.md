@@ -98,4 +98,10 @@ https://jakevdp.github.io/PythonDataScienceHandbook/index.html
 
 http://www.mlfactor.com/
 
+##### Patrick Landreman: A Crash Course in Applied Linear Algebra | PyData New York 2019
 
+- https://www.youtube.com/watch?v=wkxgZirbCr4
+- https://github.com/plandrem/PyData-2019
+- http://vmls-book.stanford.edu/
+- http://ee263.stanford.edu/
+- https://www.youtube.com/playlist?list=PL06960BA52D0DB32B

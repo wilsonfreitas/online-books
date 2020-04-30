@@ -105,3 +105,9 @@ http://www.mlfactor.com/
 - http://vmls-book.stanford.edu/
 - http://ee263.stanford.edu/
 - https://www.youtube.com/playlist?list=PL06960BA52D0DB32B
+
+
+##### Stanford CS229: Machine Learning | Autumn 2018
+
+- https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
+- http://cs229.stanford.edu/syllabus-autumn2018.html?utm_campaign=Data_Elixir&utm_source=Data_Elixir_283

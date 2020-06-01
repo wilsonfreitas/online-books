@@ -111,3 +111,8 @@ http://www.mlfactor.com/
 
 - https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
 - http://cs229.stanford.edu/syllabus-autumn2018.html?utm_campaign=Data_Elixir&utm_source=Data_Elixir_283
+
+
+#### Practical Python Programming
+
+- https://dabeaz-course.github.io/practical-python/

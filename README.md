@@ -116,3 +116,11 @@ http://www.mlfactor.com/
 #### Practical Python Programming
 
 - https://dabeaz-course.github.io/practical-python/
+
+
+#### Introductory Econometrics for Finance
+
+- Code & Datasets: <https://www.cambridge.org/br/academic/subjects/economics/finance/introductory-econometrics-finance-4th-edition>
+- Python: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3475303
+- R: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3466882
+

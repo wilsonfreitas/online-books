@@ -124,3 +124,6 @@ http://www.mlfactor.com/
 - Python: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3475303
 - R: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3466882
 
+#### Topics in Mathematics with Applications in Finance
+
+- https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/index.htm

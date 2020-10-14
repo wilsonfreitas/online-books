@@ -98,6 +98,8 @@ https://jakevdp.github.io/PythonDataScienceHandbook/index.html
 
 http://www.mlfactor.com/
 
+https://www.bayesrulesbook.com/
+
 ##### Patrick Landreman: A Crash Course in Applied Linear Algebra | PyData New York 2019
 
 - https://www.youtube.com/watch?v=wkxgZirbCr4

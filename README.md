@@ -100,6 +100,8 @@ http://www.mlfactor.com/
 
 https://www.bayesrulesbook.com/
 
+https://www.tmwr.org/
+
 ##### Patrick Landreman: A Crash Course in Applied Linear Algebra | PyData New York 2019
 
 - https://www.youtube.com/watch?v=wkxgZirbCr4
@@ -129,3 +131,4 @@ https://www.bayesrulesbook.com/
 #### Topics in Mathematics with Applications in Finance
 
 - https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/index.htm
+

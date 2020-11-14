@@ -102,6 +102,14 @@ https://www.bayesrulesbook.com/
 
 https://www.tmwr.org/
 
+http://sillasgonzaga.com/material/cdr/
+
+https://material.curso-r.com/
+
+https://www.math.nyu.edu/faculty/avellane/
+
+http://www.stat.columbia.edu/~gelman/book/
+
 ##### Patrick Landreman: A Crash Course in Applied Linear Algebra | PyData New York 2019
 
 - https://www.youtube.com/watch?v=wkxgZirbCr4

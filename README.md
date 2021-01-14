@@ -140,3 +140,5 @@ http://www.stat.columbia.edu/~gelman/book/
 
 - https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/index.htm
 
+
+- http://www.moving-averages.technicalanalysis.org.uk/

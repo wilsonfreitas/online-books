@@ -145,3 +145,7 @@ http://www.stat.columbia.edu/~gelman/book/
 ### Financial Engineering Analytics: A Practice Manual Using R
 
 https://bookdown.org/wfoote01/faur/
+
+### Elements of Data Science
+
+https://allendowney.github.io/ElementsOfDataScience/index.html

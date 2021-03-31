@@ -149,3 +149,7 @@ https://bookdown.org/wfoote01/faur/
 ### Elements of Data Science
 
 https://allendowney.github.io/ElementsOfDataScience/index.html
+
+### Causal Inference for The Brave and True
+
+https://matheusfacure.github.io/python-causality-handbook/landing-page.html

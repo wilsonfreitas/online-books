@@ -153,3 +153,8 @@ https://allendowney.github.io/ElementsOfDataScience/index.html
 ### Causal Inference for The Brave and True
 
 https://matheusfacure.github.io/python-causality-handbook/landing-page.html
+
+### The Shiny AWS Book
+
+https://business-science.github.io/shiny-production-with-aws-book/
+

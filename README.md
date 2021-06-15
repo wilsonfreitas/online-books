@@ -158,3 +158,7 @@ https://matheusfacure.github.io/python-causality-handbook/landing-page.html
 
 https://business-science.github.io/shiny-production-with-aws-book/
 
+### Introduction to Computational Finance and Financial Econometrics with R
+
+https://bookdown.org/compfinezbook/introcompfinr/
+

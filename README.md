@@ -162,3 +162,6 @@ https://business-science.github.io/shiny-production-with-aws-book/
 
 https://bookdown.org/compfinezbook/introcompfinr/
 
+### YaRrr! The Pirate’s Guide to R
+
+https://bookdown.org/ndphillips/YaRrr/

@@ -165,3 +165,8 @@ https://bookdown.org/compfinezbook/introcompfinr/
 ### YaRrr! The Pirate’s Guide to R
 
 https://bookdown.org/ndphillips/YaRrr/
+
+
+### Bayes Rules! An Introduction to Applied Bayesian Modeling
+
+https://www.bayesrulesbook.com/

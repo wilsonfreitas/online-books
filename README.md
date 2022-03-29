@@ -170,3 +170,8 @@ https://bookdown.org/ndphillips/YaRrr/
 ### Bayes Rules! An Introduction to Applied Bayesian Modeling
 
 https://www.bayesrulesbook.com/
+
+
+### Econometric Data Science: A Predictive Modeling Approach
+
+https://www.sas.upenn.edu/~fdiebold/Teaching104/Econometrics.pdf

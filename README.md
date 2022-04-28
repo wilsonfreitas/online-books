@@ -98,10 +98,6 @@ https://jakevdp.github.io/PythonDataScienceHandbook/index.html
 
 http://www.mlfactor.com/
 
-https://www.bayesrulesbook.com/
-
-https://www.tmwr.org/
-
 http://sillasgonzaga.com/material/cdr/
 
 https://material.curso-r.com/
@@ -175,3 +171,8 @@ https://www.bayesrulesbook.com/
 ### Econometric Data Science: A Predictive Modeling Approach
 
 https://www.sas.upenn.edu/~fdiebold/Teaching104/Econometrics.pdf
+
+
+### Tidy Modeling with R
+
+https://www.tmwr.org/

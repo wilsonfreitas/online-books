@@ -181,3 +181,7 @@ https://www.sas.upenn.edu/~fdiebold/Teaching104/Econometrics.pdf
 ### Tidy Modeling with R
 
 https://www.tmwr.org/
+
+### LINEAR ALGEBRA - MIT
+
+https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/

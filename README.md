@@ -2,6 +2,11 @@
 
 ## Statistics
 
+https://jbhender.github.io/Stats506/F18/index.html
+Stats 506, Computational Methods and Tools in Statistics
+Instructor: James Henderson, PhD
+Fall 2018
+
 https://otexts.org/fpp2/
 Forecasting: Principles and Practice, Rob J Hyndman and George Athanasopoulos
 

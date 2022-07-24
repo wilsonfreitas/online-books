@@ -185,3 +185,7 @@ https://www.tmwr.org/
 ### LINEAR ALGEBRA - MIT
 
 https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/
+
+### 5min statistics
+
+https://stephens999.github.io/fiveMinuteStats/index.html

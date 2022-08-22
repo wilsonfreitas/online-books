@@ -189,3 +189,7 @@ https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/
 ### 5min statistics
 
 https://stephens999.github.io/fiveMinuteStats/index.html
+
+### Tidy Portfolio Management in R
+
+https://bookdown.org/sstoeckl/Tidy_Portfoliomanagement_in_R/

@@ -193,3 +193,7 @@ https://stephens999.github.io/fiveMinuteStats/index.html
 ### Tidy Portfolio Management in R
 
 https://bookdown.org/sstoeckl/Tidy_Portfoliomanagement_in_R/
+
+### An Introduction to Bayesian Thinking
+
+https://statswithr.github.io/book/

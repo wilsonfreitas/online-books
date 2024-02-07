@@ -197,3 +197,7 @@ https://bookdown.org/sstoeckl/Tidy_Portfoliomanagement_in_R/
 ### An Introduction to Bayesian Thinking
 
 https://statswithr.github.io/book/
+
+### The Derivatives Academy
+
+https://bookdown.org/maxime_debellefroid/MyBook/
